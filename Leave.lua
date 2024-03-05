@@ -46,11 +46,11 @@ windower.register_event('addon command', function(...)
     local cmd = args[1]
 	local zone = windower.ffxi.get_info()['zone']
 
-    if cmd == 'all' then
-        windower.send_ipc_message('Leave_all')
+	if cmd == 'all' then
+			windower.send_ipc_message('Leave_all')
 
 	elseif cmd == 'exit' then
-		windower.send_ipc_message('Leave')
+			windower.send_ipc_message('Leave')
 	end
 
 	if items_by_zone[zone] then
