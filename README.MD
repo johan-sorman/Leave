@@ -19,5 +19,4 @@
 ##### Commands
 
 `//leave exit` -- Leave on the character issuing the command
-
 `//leave all` -- Leave all characters if applicable
