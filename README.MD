@@ -20,4 +20,4 @@
 
 `//leave exit` -- Leave on the character issuing the command
 
-`//leave exit` -- Leave all characters if applicable
+`//leave all` -- Leave all characters if applicable
