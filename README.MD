@@ -1,7 +1,7 @@
 ### Leave
 
 **Orginal Author:** <br>
-SvenBent(DaneBlood) 
+SvenBent (DaneBlood) 
 <br>
 **Updated by** <br>
 Melucine@Bahamut
