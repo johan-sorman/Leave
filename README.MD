@@ -2,14 +2,15 @@
 
 <sup>Orginal Author:</sup>
 <br>
-SvenBent (DaneBlood) 
+<sup>SvenBent (DaneBlood)</sup>
 <br><br>
-Updated by:
+<sup>Updated by:</sup>
 <br>
-Melucine@Bahamut
+<sup>Melucine@Bahamut</sup>
 <br><br>
-Date: <br>
-2024-03-05
+<sup>Date:</sup>
+<br>
+<sup>2024-03-05</sup>
 
 ##### Description
 
