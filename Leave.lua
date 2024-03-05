@@ -50,7 +50,7 @@ windower.register_event('addon command', function(...)
 			windower.send_ipc_message('Leave_all')
 
 	elseif cmd == 'exit' then
-			windower.send_ipc_message('Leave')
+			windower.send_command('Leave')
 	end
 
 	if items_by_zone[zone] then
