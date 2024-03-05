@@ -3,11 +3,11 @@
 <sup>Orginal Author:</sup>
 <br>
 <sup>SvenBent (DaneBlood)</sup>
-<br><br>
+<br>
 <sup>Updated by:</sup>
 <br>
 <sup>Melucine@Bahamut</sup>
-<br><br>
+<br>
 <sup>Date:</sup>
 <br>
 <sup>2024-03-05</sup>
