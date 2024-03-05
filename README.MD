@@ -14,7 +14,7 @@
 
 ##### Description
 
-It will automatically exit from an event zone on the character issue the command (see below) or all logged in characters, if applicable. 
+<sup>It will automatically exit from an event zone on the character issue the command (see below) or all logged in characters, if applicable. </sup>
 
 ##### Commands
 
