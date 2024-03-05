@@ -30,16 +30,10 @@ _addon.command = 'Leave'
 
 res = require('resources')
 
+local items_by_zone = require('items')
 
 local chatColor = 207
 
-local items_by_zone = {
-	[129] = 'Input /item "Hiatus Whistle" <me>',
-	[133] = 'Input /item "Obsid. Wing" <me>',
-	[271] = 'Input /item "Ontic Extremity" <me>',
-	[275] = 'Input /item "Ontic Extremity" <me>',
-	[294] = 'Input /item "Black hourglass " <me>',
-	}
 
 windower.register_event('addon command', function(...)
     local args = T{...}
@@ -55,6 +49,7 @@ windower.register_event('addon command', function(...)
 
 	if items_by_zone[zone] then
 		windower.send_command(items_by_zone[zone])
+		
 	elseif zone == 78 then -- Einhejar
 		windower.send_command('Treasury drop add "Glowing lamp";wait 1;Treasury drop remove "Glowing lamp"')
 
