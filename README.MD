@@ -1,6 +1,6 @@
 ## Leave
 
-Orginal Author:
+<sup>Orginal Author:</sup>
 <br>
 SvenBent (DaneBlood) 
 <br><br>
