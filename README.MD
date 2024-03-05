@@ -1,12 +1,14 @@
-##### Leave
+## Leave
 
-<sl>Orginal Author:</sl> <br>
+Orginal Author:
+<br>
 SvenBent (DaneBlood) 
+<br><br>
+Updated by:
 <br>
-**Updated by** <br>
 Melucine@Bahamut
-<br>
-**Date**: <br>
+<br><br>
+Date: <br>
 2024-03-05
 
 ##### Description
