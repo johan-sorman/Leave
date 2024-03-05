@@ -1,17 +1,20 @@
-### Leave
+## Leave
 
-**Orginal Author:** <br>
-SvenBent (DaneBlood) 
+<sup>Orginal Author:</sup>
 <br>
-**Updated by** <br>
-Melucine@Bahamut
+<sup>SvenBent (DaneBlood)</sup>
 <br>
-**Date**: <br>
-2024-03-05
+<sup>Updated by:</sup>
+<br>
+<sup>Melucine@Bahamut</sup>
+<br>
+<sup>Date:</sup>
+<br>
+<sup>2024-03-05</sup>
 
 ##### Description
 
-It will automatically exit from an event zone on the character issue the command (see below) or all logged in characters, if applicable. 
+<sup>It will automatically exit from an event zone on the character issue the command (see below) or all logged in characters, if applicable. </sup>
 
 ##### Commands
 
